@@ -13,13 +13,13 @@ Dataset Description: The dataset encapsulates transactions of non-store online r
 
 **Data Preparation:**  
 Key steps involved:
-* Removing rows with empty customer_id and refunds.  (See cleaning_data.sql)
-* Creating a total_price column by multiplying the quantity and unit price.  (See total_price.sql)
-* Splitting the invoice_date column into separate date and time columns.  (See splicing_date_time.sql)
-* Formatting the date for uniformity.  (See date_rearrange.sql)
+* Removing rows with empty customer_id and refunds.  [Data Cleaning Script](cleaning_data.sql)
+* Creating a total_price column by multiplying the quantity and unit price.  [Total Price Calculation Script](total_price.sql)
+* Splitting the invoice_date column into separate date and time columns.  [Splicing Date and Time Script](splicing_date_time.sql)
+* Formatting the date for uniformity.  [Date Rearrange Script](date_rearrange.sql)
 
 **Exploratory Data Analysis (EDA):**  
-(SEE eda.sql)
+[Exploratory Data Analysis Script](EDA.sql)
 * Identified 3665 unique products with the most popular being 'WHITE HANGING HEART T-LIGHT HOLDER' (2028 sold).
 * Customer 12748 has made the highest number of orders (210).
 * The average quantity purchased is 13, indicating that this is bulk purchasers/wholesalers (backed up by notes in the data source)
