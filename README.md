@@ -67,9 +67,9 @@ An interactive dashboard was created in Power BI to visualise the customer segme
 [Click here to access the SharePoint file](https://livemanchesterac-my.sharepoint.com/:u:/g/personal/doualeh_dahir_student_manchester_ac_uk/ES2plXPcm6BMnrfxR-MJg7EBDtehp-b9DR36RS8e_9l7Pw?e=2c5j6s)  
 
 **Dashboard Screenshots**:
+![ecom_rfm_viz-1](https://github.com/deedahir/EcommerceRFMProject/assets/134728340/ddbd39b0-f076-44ab-9943-f6b7a6b7b0b9)
+
 
 **Evaluation:**  
 The project unearthed challenges in setting up DBeaver, ODBC connector, and crafting extensive SQL queries for RFM analysis. Despite these, the segmentation provides a solid foundation for personalised marketing campaigns. Future steps involve creating the automated flows and campaigns recommended via these segments, starting off with the larger segments. Then conducting tracking and optimisations to further increase revenue. 
-
-
 
