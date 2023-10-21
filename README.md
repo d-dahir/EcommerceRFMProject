@@ -1,6 +1,8 @@
 # Customer Segmentation through RFM Analysis for Optimised Email Marketing
 SQL + PowerBI - Data Analytics Project
 
+![ecom_rfm_viz-1](https://github.com/deedahir/EcommerceRFMProject/assets/134728340/11236c91-f0d1-476f-9eb5-f529c9b38811)
+
 **Introduction:**  
 An e-commerce company is looking to optimise its email marketing strategy by segmenting its customer base to target them with personalised marketing messages. The goal is to increase engagement rates and ultimately, revenue. The company has historical sales data but hasn’t leveraged it for marketing purposes yet.  
 
@@ -26,7 +28,7 @@ Key steps involved:
 * Average purchase price = 22.3
 
 **RFM Analysis:**  
-See script3.sql
+[The RFM Analysi](script3.sql)
 Employed RFM methodology to segment customers based on their purchasing behaviour. Encountered challenges with SQLite's Julian function and had to ensure a fine balance in segment definition to maintain meaningful segmentation.
 
 **Insights and Recommendations:**  
@@ -67,8 +69,8 @@ An interactive dashboard was created in Power BI to visualise the customer segme
 [Click here to access the SharePoint file](https://livemanchesterac-my.sharepoint.com/:u:/g/personal/doualeh_dahir_student_manchester_ac_uk/ES2plXPcm6BMnrfxR-MJg7EBDtehp-b9DR36RS8e_9l7Pw?e=2c5j6s)  
 
 **Dashboard Screenshots**:
-![ecom_rfm_viz-1](https://github.com/deedahir/EcommerceRFMProject/assets/134728340/ddbd39b0-f076-44ab-9943-f6b7a6b7b0b9)
 
+![ecom_rfm_viz-1](https://github.com/deedahir/EcommerceRFMProject/assets/134728340/11236c91-f0d1-476f-9eb5-f529c9b38811)
 
 **Evaluation:**  
 The project unearthed challenges in setting up DBeaver, ODBC connector, and crafting extensive SQL queries for RFM analysis. Despite these, the segmentation provides a solid foundation for personalised marketing campaigns. Future steps involve creating the automated flows and campaigns recommended via these segments, starting off with the larger segments. Then conducting tracking and optimisations to further increase revenue. 
