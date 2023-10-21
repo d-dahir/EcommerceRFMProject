@@ -64,6 +64,7 @@ Survey and Feedback: Conduct survey and feedback campaigns to better understand 
 An interactive dashboard was created in Power BI to visualise the customer segments, RFM score distribution, and monetary value by segment. The dashboard allows for a deeper exploration of the data and understanding of customer segmentation.  
 
 **Dashboard Link:**
+[Click here to access the SharePoint file](https://livemanchesterac-my.sharepoint.com/:u:/g/personal/doualeh_dahir_student_manchester_ac_uk/ES2plXPcm6BMnrfxR-MJg7EBDtehp-b9DR36RS8e_9l7Pw?e=2c5j6s)  
 
 **Dashboard Screenshots**:
 
