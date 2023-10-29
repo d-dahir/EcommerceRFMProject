@@ -28,7 +28,7 @@ Key steps involved:
 * Average purchase price = 22.3
 
 **RFM Analysis:**  
-[The RFM Analysi](script3.sql)
+[The RFM Analysis](script3.sql)
 Employed RFM methodology to segment customers based on their purchasing behaviour. Encountered challenges with SQLite's Julian function and had to ensure a fine balance in segment definition to maintain meaningful segmentation.
 
 **Insights and Recommendations:**  
